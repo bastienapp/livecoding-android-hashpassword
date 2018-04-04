@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PasswordEncrypt</string>
+    <string name="new_password">New password</string>
+    <string name="check_password">Check password</string>
+    <string name="save">Save</string>
+    <string name="check">Check</string>
+    <string name="password_ok">Passwords are the same !</string>
+    <string name="password_nok">Passwords are different !</string>
+</resources>
